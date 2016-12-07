@@ -1,0 +1,36 @@
+{
+  "name": "advjs",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Gopalakrishnan Subramani <gopalakrishnan.subramani@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "jquery": "^3.1.1",
+    "lodash": "^4.17.2",
+    "moment": "^2.17.1",
+    "modernizr": "^3.3.1",
+    "angular": "^1.5.9",
+    "angular-ui-router": "^0.3.2",
+    "angular-route": "^1.5.9",
+    "angular-resource": "^1.5.9",
+    "angular-translate": "^2.13.1",
+    "angular-cache": "^4.6.0",
+    "angular-dynamic-locale": "^0.1.32",
+    "es6-promise": "^4.0.5",
+    "core.js": "^2.4.1",
+    "systemjs": "*",
+    "async": "^2.1.4"
+  }
+}
